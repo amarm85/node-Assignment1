@@ -1,0 +1,16 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "Peer-graded Assignment: Node Modules, Express and REST API",
+  "main": "server.js",
+  "scripts": {
+    "test": "na"
+  },
+  "author": "Amar Jeet Singh",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "morgan": "^1.8.2"
+  }
+}
